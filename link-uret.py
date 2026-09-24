@@ -32,7 +32,7 @@ for i, p in enumerate(dosyalar, 1):
     satir.append("    " + TABAN + p.name)
 satir.append("")
 satir.append("© 2026 Kenan Kuzucu · Tüm hakları saklıdır (5846 FSEK).")
-CIKTI.write_text("\r\n".join(satir) + "\r\n", encoding="utf-8")
+CIKTI.write_text("\r\n".join(satir) + "\r\n", encoding="utf-8", newline="")
 print("yazıldı:", CIKTI)
 print("uygulama: %d · dosya: %d · toplam: %.0f MB" % (len(uygulama), len(dosyalar), toplam_bayt / 1048576))
 for p in dosyalar:
