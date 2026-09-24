@@ -10,7 +10,7 @@ APK = S / "apk"
 
 ADLAR = {
  "USTAD-KPSS-B": ("ÜSTAD Sınav Koçu · KPSS-B", "KPSS uzmanlık ve müfettişlik: 120 özgün soru, deneme sınavı, ders notları, anında geri bildirim."),
- "USTAD-KOC-PRO": ("ÜSTAD KPSS-B KOÇ PRO", "Sınav koçluğu paketi + KPSS ARAÇLAR + 🤖 ÜSTAD KOÇ AI (çevrimdışı koç: günlük plan, soru-cevap, sesli brifing) + SES STÜDYOSU (kadın/erkek sesi) + SESLİ DERSLER (20 ders, 30 güncel bilgi, 33 soru çözümü sesli) + 4 EĞİTİCİ OYUN."),
+ "USTAD-KOC-PRO": ("ÜSTAD KPSS-B KOÇ PRO", "Sınav koçluğu paketi: KPSS ARAÇLAR + 🤖 ÜSTAD KOÇ AI (çevrimdışı koç) + SES STÜDYOSU (kadın/erkek sesi) + SESLİ DERSLER + 4 EĞİTİCİ OYUN + 🃏 KART TEKRARI (aralıklı tekrar) + 📕 YANLIŞ DEFTERİM + ⏱️ SÜRELİ MİNİ TEST + 📈 DENEME ANALİZİ (net grafiği)."),
  "USTAD-EHLIYET": ("ÜSTAD EHLİYET", "Ehliyet sınavı hazırlık: 1.100+ soru, 4 şablon, 10 tema."),
  "KALI-REHBERIM": ("KALİ REHBERİM", "Kali Linux rehberi — komut kitabı ve kullanım kılavuzu."),
  "USTAD-SIBER-EGITIM": ("ÜSTAD SİBER EĞİTİM", "Siber güvenlik eğitim içeriği."),
