@@ -2,7 +2,7 @@
 
 İndirme sayfası: **https://kenankuzucu.github.io/ustad-apk-indir/**
 
-28 uygulama · 60 imzalı APK · toplam 111 MB.
+28 uygulama · 61 imzalı APK · toplam 112 MB.
 Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private) depolarda tutulur.
 
 ### 📚 Sınav ve Eğitim
@@ -27,6 +27,7 @@ Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private)
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.5.apk | 2.5 | 1187348 | `9446780e383ff350335cd85b3eaa2a43ce2c7c4985139eefc6ec52f33538e6c6` |
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.6.apk | 2.6 | 1199775 | `35183aaa17796618af233ce21a02b195a13f4dc354a148c0f29922f8315df182` |
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.7.apk | 2.7 | 1249491 | `00a6b32d7ce37228678afacfb9391fd05c87eeb9fab41e6f508cab24fce23b6c` |
+| ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.8.apk | 2.8 | 1311483 | `59995ad082974dcf7aef2f3f79aeba9dc9da6ed9f10bcc678eac9b7d5e75d7df` |
 | ÜSTAD KPSS (web sürümü) | apk/USTAD-KPSS-v1.2-APK-yasal-uyarili.apk | 1.2 | 607973 | `62e47323ae6fa75ad635486ed98c3330455b0e53c714a18a1d4f233abd4d8c31` |
 | ÜSTAD KPSS ARAÇLAR | apk/USTAD-KPSS-ARACLAR-v1.0.apk | 1.0 | 1039185 | `8c2c01c369e28fbdc6650e545c4efdbf345c6e380a3081ec2c377263e321e5ba` |
 | ÜSTAD EHLİYET | apk/USTAD-EHLIYET-v2.2.apk | 2.2 | 3696115 | `f1c2be0ad93916c9b7f49f3af95b55106566782fbe78991662bfe2243abdefe1` |
