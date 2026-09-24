@@ -2,7 +2,7 @@
 
 İndirme sayfası: **https://kenankuzucu.github.io/ustad-apk-indir/**
 
-27 uygulama · 55 imzalı APK · toplam 105 MB.
+28 uygulama · 56 imzalı APK · toplam 106 MB.
 Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private) depolarda tutulur.
 
 ### 📚 Sınav ve Eğitim
@@ -23,11 +23,12 @@ Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private)
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.1.apk | 2.1 | 1116935 | `525962190112c6893930750cbd37620a74420d13663bf639c3b5ceffa6d14f59` |
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.2.apk | 2.2 | 1137549 | `39b778aa221a70178b803fbe1cfc9d3c924346f0780d0d6900751a8363839f9d` |
 | ÜSTAD KPSS-B KOÇ PRO | apk/USTAD-KOC-PRO-v2.3.apk | 2.3 | 1137549 | `18d05036b631806528809cc3431403d55c52aee5a22db2218a9e9142e8556344` |
+| ÜSTAD KPSS (web sürümü) | apk/USTAD-KPSS-v1.2-APK-yasal-uyarili.apk | 1.2 | 607973 | `62e47323ae6fa75ad635486ed98c3330455b0e53c714a18a1d4f233abd4d8c31` |
+| ÜSTAD KPSS ARAÇLAR | apk/USTAD-KPSS-ARACLAR-v1.0.apk | 1.0 | 1039185 | `75e8da8251a8ef1dc90e95b01b3837c47f85fbba68c3af0291be5a9546c981d3` |
 | ÜSTAD EHLİYET | apk/USTAD-EHLIYET-v2.2.apk | 2.2 | 3696115 | `f1c2be0ad93916c9b7f49f3af95b55106566782fbe78991662bfe2243abdefe1` |
 | KALİ REHBERİM | apk/KALI-REHBERIM-v3.5.apk | 3.5 | 1171530 | `c37c22f2c4666bffb6cfd974a3824a9e3157b25520a478c9df43fd3888fe4220` |
 | ÜSTAD SİBER EĞİTİM | apk/USTAD-SIBER-EGITIM.apk | — | 4925787 | `5fe06a0d4a56905bfc3f7ffebbce9f23c9e46ef4ae6d3d96c85673cba5bdb878` |
 | Kenan'ın İslam Hazinesi | apk/Ustad-Kenanin-Islam-Hazinesi-v1.7.apk | 1.7 | 1665270 | `71957c3e4c75934f18942fccc6cefef440f9ef26339ce3bf7bb1566fc5d5ea56` |
-| ÜSTAD KPSS (web sürümü) | apk/USTAD-KPSS-v1.2-APK-yasal-uyarili.apk | 1.2 | 607973 | `62e47323ae6fa75ad635486ed98c3330455b0e53c714a18a1d4f233abd4d8c31` |
 
 ### 🛡️ Siber Güvenlik
 

@@ -16,6 +16,7 @@ ADLAR = {
  "USTAD-SIBER-EGITIM": ("ÜSTAD SİBER EĞİTİM", "Siber güvenlik eğitim içeriği."),
  "Ustad-Kenanin-Islam-Hazinesi": ("Kenan'ın İslam Hazinesi", "Dini içerik hazinesi."),
  "USTAD-KPSS": ("ÜSTAD KPSS (web sürümü)", "KPSS soru bankası ve deneme sınavı — web uygulamasının APK hâli."),
+ "USTAD-KPSS-ARACLAR": ("ÜSTAD KPSS ARAÇLAR", "Sınav geri sayımı (ÖSYM takvimi + hatırlatıcı), net & puan hesaplama, not defteri, 30 kaynaklı 2026 güncel bilgi ve 2011-2021 çıkmış soru arşivi + 33 özgün soru."),
  "USTAD-SIBER": ("ÜSTAD SİBER", "Siber güvenlik paneli."),
  "Siber-ULTRA": ("SİBER ULTRA", "Siber güvenlik paketi."),
  "ustadcyber-oynatici": ("USTAD CYBER OYNATICI", "Siber içerik oynatıcı."),
@@ -38,7 +39,7 @@ ADLAR = {
  "USTAD-TRANSFER": ("ÜSTAD TRANSFER", "Dosya aktarım aracı."),
 }
 GRUP = [
- ("Sınav ve Eğitim", "#2e7d32", "📚", ["USTAD-KPSS-B", "USTAD-KOC-PRO", "USTAD-EHLIYET", "KALI-REHBERIM", "USTAD-SIBER-EGITIM", "Ustad-Kenanin-Islam-Hazinesi", "USTAD-KPSS"]),
+ ("Sınav ve Eğitim", "#2e7d32", "📚", ["USTAD-KPSS-B", "USTAD-KOC-PRO", "USTAD-KPSS", "USTAD-KPSS-ARACLAR", "USTAD-EHLIYET", "KALI-REHBERIM", "USTAD-SIBER-EGITIM", "Ustad-Kenanin-Islam-Hazinesi"]),
  ("Siber Güvenlik", "#1565c0", "🛡️", ["USTAD-SIBER", "Siber-ULTRA", "ustadcyber-oynatici", "USTAD-TAM-KUMANDA", "USTAD-TRANSFER"]),
  ("Medya, TV ve Haber", "#6a1b9a", "📺", ["USTAD-TV", "USTAD-TV-KOPRUSU", "USTAD-SALON-TV-4K", "USTAD-PIYASA-TV", "USTAD-MONITOR", "USTAD-GAZETE"]),
  ("İşletme, Piyasa ve Kasa", "#ef6c00", "💼", ["USTAD-PIYASA", "USTADIN-KASASI", "USTAD-SALON"]),
