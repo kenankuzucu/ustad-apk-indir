@@ -5,8 +5,20 @@
 *{box-sizing:border-box}
 body{margin:0;font-family:"Segoe UI",Tahoma,sans-serif;background:#f1f3f6;color:#1b2430}
 header{background:linear-gradient(135deg,#0d1b2a,#1b3a5c 55%,#2e7d32);color:#fff;padding:26px 18px}
+.kimlik{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+.madalyon{position:relative;width:112px;height:112px;flex:0 0 auto;animation:sallan 6s ease-in-out infinite;transform-style:preserve-3d}
+.madalyon img{position:absolute;inset:10px;width:92px;height:92px;border-radius:50%;box-shadow:0 8px 22px rgba(0,0,0,.45);animation:nabiz 3.2s ease-in-out infinite}
+.madalyon .halka{position:absolute;inset:0;border-radius:50%;background:conic-gradient(from 0deg,#f6d98a,#b8860b,#fff3c4,#d4af37,#8a6a12,#f6d98a);
+ -webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 7px),#000 calc(100% - 6px));
+ mask:radial-gradient(farthest-side,transparent calc(100% - 7px),#000 calc(100% - 6px));
+ animation:don 7s linear infinite;filter:drop-shadow(0 0 6px rgba(246,217,138,.55))}
+.kimlik-yazi{min-width:220px}
 header h1{margin:0;font-size:26px;letter-spacing:.5px}
 header p{margin:8px 0 0;opacity:.92;font-size:14px}
+@keyframes don{to{transform:rotate(360deg)}}
+@keyframes nabiz{0%,100%{box-shadow:0 8px 22px rgba(0,0,0,.45)}50%{box-shadow:0 8px 30px rgba(246,217,138,.75)}}
+@keyframes sallan{0%,100%{transform:translateY(0) rotateY(0deg)}25%{transform:translateY(-5px) rotateY(9deg)}50%{transform:translateY(0) rotateY(0deg)}75%{transform:translateY(-5px) rotateY(-9deg)}}
+@media (prefers-reduced-motion:reduce){.madalyon,.madalyon img,.madalyon .halka{animation:none}}
 .rozet{display:inline-block;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.35);border-radius:20px;padding:3px 10px;margin:6px 6px 0 0;font-size:12.5px}
 section{max-width:1180px;margin:22px auto;padding:0 14px}
 h2{color:#fff;font-size:17px;margin:0 0 12px;padding:9px 14px;border-radius:10px}
@@ -21,37 +33,17 @@ h2 .sayi{float:right;font-weight:400;font-size:13px;opacity:.9}
 .eski a{color:#1565c0;text-decoration:none;font-weight:600}
 .kucuk{color:#8b95a1}
 footer{max-width:1180px;margin:26px auto 40px;padding:14px;color:#5a6572;font-size:12.5px;text-align:center;line-height:1.6}
-
-.kimlik{display:flex;align-items:center;gap:18px;flex-wrap:wrap}
-.madalyon{position:relative;width:112px;height:112px;flex:0 0 auto;
-  animation:sallan 6s ease-in-out infinite;transform-style:preserve-3d}
-.madalyon img{position:absolute;inset:10px;width:92px;height:92px;border-radius:50%;
-  box-shadow:0 8px 22px rgba(0,0,0,.45);animation:nabiz 3.2s ease-in-out infinite}
-.madalyon .halka{position:absolute;inset:0;border-radius:50%;
-  background:conic-gradient(from 0deg,#f6d98a,#b8860b,#fff3c4,#d4af37,#8a6a12,#f6d98a);
-  -webkit-mask:radial-gradient(farthest-side,transparent calc(100% - 7px),#000 calc(100% - 6px));
-          mask:radial-gradient(farthest-side,transparent calc(100% - 7px),#000 calc(100% - 6px));
-  animation:don 7s linear infinite;filter:drop-shadow(0 0 6px rgba(246,217,138,.55))}
-.kimlik-yazi{min-width:220px}
-@keyframes don{to{transform:rotate(360deg)}}
-@keyframes nabiz{0%,100%{box-shadow:0 8px 22px rgba(0,0,0,.45)}50%{box-shadow:0 8px 30px rgba(246,217,138,.75)}}
-@keyframes sallan{0%,100%{transform:translateY(0) rotateY(0deg)}25%{transform:translateY(-5px) rotateY(9deg)}
-  50%{transform:translateY(0) rotateY(0deg)}75%{transform:translateY(-5px) rotateY(-9deg)}}
-@media (prefers-reduced-motion:reduce){.madalyon,.madalyon img,.madalyon .halka{animation:none}}
 </style></head><body>
 <header>
   <div class="kimlik">
-    <div class="madalyon" aria-hidden="true">
-      <span class="halka"></span>
-      <img src="profil-kafa.png" alt="ÜSTAD amblemi">
-    </div>
+    <div class="madalyon" aria-hidden="true"><span class="halka"></span><img src="profil-kafa.png" alt="ÜSTAD amblemi"></div>
     <div class="kimlik-yazi">
       <h1>⬇ ÜSTAD UYGULAMALARI · APK İNDİRME MERKEZİ</h1>
-  <p>Kenan Kuzucu'nun Android uygulamaları — hepsi kendi anahtarıyla imzalı, doğrudan kuruluma hazır.</p>
+      <p>Kenan Kuzucu'nun Android uygulamaları — hepsi kendi anahtarıyla imzalı, doğrudan kuruluma hazır.</p>
+      <span class="rozet">27 uygulama</span><span class="rozet">55 APK dosyası</span>
+      <span class="rozet">toplam 105 MB</span><span class="rozet">kaynak kod: özel (private) depolarda</span>
     </div>
   </div>
-  <span class="rozet">27 uygulama</span><span class="rozet">54 APK dosyası</span>
-  <span class="rozet">toplam 104 MB</span><span class="rozet">kaynak kod: özel (private) depolarda</span>
 </header>
 <section><h2 style="background:#2e7d32">📚 Sınav ve Eğitim <span class="sayi">7 uygulama</span></h2><div class="izgara">
 <div class="kart" style="border-top:4px solid #2e7d32">
@@ -62,11 +54,11 @@ footer{max-width:1180px;margin:26px auto 40px;padding:14px;color:#5a6572;font-si
   <div class="eski">Önceki sürümler: <a href="apk/USTAD-KPSS-B-v1.0.apk" download>1.0</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.1.apk" download>1.1</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.2.apk" download>1.2</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.3.apk" download>1.3</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.4.apk" download>1.4</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.5.apk" download>1.5</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.6.apk" download>1.6</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.7.apk" download>1.7</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KPSS-B-v1.8.apk" download>1.8</a> <span class="kucuk">(1.0 MB)</span></div>
 </div>
 <div class="kart" style="border-top:4px solid #2e7d32">
-  <h3>ÜSTAD KOÇ PRO</h3>
+  <h3>ÜSTAD KPSS-B KOÇ PRO</h3>
   <p class="acik">Sınav koçluğu paketi — 38 özellik: uyarlamalı test, hata defteri, deneme simülasyonu, motivasyon.</p>
-  <a class="indir" style="background:#2e7d32" href="apk/USTAD-KOC-PRO-v2.2.apk" download>⬇ İNDİR · sürüm 2.2 · 1.1 MB</a>
-  <div class="sha">sha256 39b778aa221a7017…</div>
-  <div class="eski">Önceki sürümler: <a href="apk/USTAD-KOC-PRO-v2.0.apk" download>2.0</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KOC-PRO-v2.1.apk" download>2.1</a> <span class="kucuk">(1.1 MB)</span></div>
+  <a class="indir" style="background:#2e7d32" href="apk/USTAD-KOC-PRO-v2.3.apk" download>⬇ İNDİR · sürüm 2.3 · 1.1 MB</a>
+  <div class="sha">sha256 18d05036b6318065…</div>
+  <div class="eski">Önceki sürümler: <a href="apk/USTAD-KOC-PRO-v2.0.apk" download>2.0</a> <span class="kucuk">(1.0 MB)</span> · <a href="apk/USTAD-KOC-PRO-v2.1.apk" download>2.1</a> <span class="kucuk">(1.1 MB)</span> · <a href="apk/USTAD-KOC-PRO-v2.2.apk" download>2.2</a> <span class="kucuk">(1.1 MB)</span></div>
 </div>
 <div class="kart" style="border-top:4px solid #2e7d32">
   <h3>ÜSTAD EHLİYET</h3>
@@ -87,7 +79,7 @@ footer{max-width:1180px;margin:26px auto 40px;padding:14px;color:#5a6572;font-si
   <div class="sha">sha256 5fe06a0d4a56905b…</div>
 </div>
 <div class="kart" style="border-top:4px solid #2e7d32">
-  <h3>Kenanın İslam Hazinesi</h3>
+  <h3>Kenan'ın İslam Hazinesi</h3>
   <p class="acik">Dini içerik hazinesi.</p>
   <a class="indir" style="background:#2e7d32" href="apk/Ustad-Kenanin-Islam-Hazinesi-v1.7.apk" download>⬇ İNDİR · sürüm 1.7 · 1.6 MB</a>
   <div class="sha">sha256 71957c3e4c75934f…</div>
@@ -172,14 +164,13 @@ footer{max-width:1180px;margin:26px auto 40px;padding:14px;color:#5a6572;font-si
   <div class="eski">Önceki sürümler: <a href="apk/USTAD-GAZETE-v1.0.apk" download>1.0</a> <span class="kucuk">(1.1 MB)</span></div>
 </div>
 </div></section>
-<section><h2 style="background:#ef6c00">💼 İşletme, Piyasa ve Kasa <span class="sayi">4 uygulama</span></h2><div class="izgara">
+<section><h2 style="background:#ef6c00">💼 İşletme, Piyasa ve Kasa <span class="sayi">3 uygulama</span></h2><div class="izgara">
 <div class="kart" style="border-top:4px solid #ef6c00">
   <h3>ÜSTAD PİYASA</h3>
   <p class="acik">Piyasa takip: döviz, altın, borsa.</p>
   <a class="indir" style="background:#ef6c00" href="apk/USTAD-PIYASA-v1.6.apk" download>⬇ İNDİR · sürüm 1.6 · 835 KB</a>
   <div class="sha">sha256 2b0ae6bd855bcc8a…</div>
   <div class="eski">Önceki sürümler: <a href="apk/USTAD-PIYASA-v1.0.apk" download>1.0</a> <span class="kucuk">(85 KB)</span> · <a href="apk/USTAD-PIYASA-v1.1.apk" download>1.1</a> <span class="kucuk">(218 KB)</span> · <a href="apk/USTAD-PIYASA-v1.2.apk" download>1.2</a> <span class="kucuk">(218 KB)</span> · <a href="apk/USTAD-PIYASA-v1.3.apk" download>1.3</a> <span class="kucuk">(222 KB)</span> · <a href="apk/USTAD-PIYASA-v1.4.apk" download>1.4</a> <span class="kucuk">(790 KB)</span> · <a href="apk/USTAD-PIYASA-v1.5.apk" download>1.5</a> <span class="kucuk">(823 KB)</span></div>
-</div>
 </div>
 <div class="kart" style="border-top:4px solid #ef6c00">
   <h3>ÜSTADIN KASASI</h3>
