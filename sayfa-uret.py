@@ -17,6 +17,7 @@ ADLAR = {
  "Ustad-Kenanin-Islam-Hazinesi": ("Kenan'ın İslam Hazinesi", "Dini içerik hazinesi."),
  "USTAD-KPSS": ("ÜSTAD KPSS (web sürümü)", "KPSS soru bankası ve deneme sınavı — web uygulamasının APK hâli."),
  "USTAD-KPSS-ARACLAR": ("ÜSTAD KPSS ARAÇLAR", "Sınav geri sayımı (ÖSYM takvimi + hatırlatıcı), net & puan hesaplama, not defteri, 30 kaynaklı 2026 güncel bilgi ve 2011-2021 çıkmış soru arşivi + 33 özgün soru."),
+ "USTAD-OSINT": ("ÜSTAD OSINT · Blue Team SOC Konsolu", "Yerel ağ görünürlüğü + Blue Team SOC konsolu (PC · Kali · Android): 49 panel, 21 OSINT modülü ve 12 yeni nesil araç — 🚨 aktif istismar radarı (CISA KEV + EPSS), 📧 e-posta sahtecilik kalkanı (SPF/DKIM/DMARC), 🔎 mail başlığı adli analizi, 📜 sertifika şeffaflık logu, 🛡️ web yapılandırma denetimi, 🕵️ fidye yazılımı radarı, 🌍 canlı saldırı akışı (SANS ISC DShield), 🔑 kod sır avcısı, 📶 yerel ağ cihazları, 🔐 şifre sızıntı kontrolü (HIBP k-anonymity), 🖨️ QR'lı imzalı rapor paketi, 🔔 olay & bildirim merkezi. Ultra gerçekçi hareketli dünya haritası (sinyaller canlı akar), 15 tema, 3D katman, QD-OLED 4K görünüm. Her panelde \"Ne işe yarar + Örnek\" kutusu."),
  "USTAD-SIBER": ("ÜSTAD SİBER", "Siber güvenlik paneli."),
  "Siber-ULTRA": ("SİBER ULTRA", "Siber güvenlik paketi."),
  "ustadcyber-oynatici": ("USTAD CYBER OYNATICI", "Siber içerik oynatıcı."),
@@ -40,7 +41,7 @@ ADLAR = {
 }
 GRUP = [
  ("Sınav ve Eğitim", "#2e7d32", "📚", ["USTAD-KPSS-B", "USTAD-KOC-PRO", "USTAD-KPSS", "USTAD-KPSS-ARACLAR", "USTAD-EHLIYET", "KALI-REHBERIM", "USTAD-SIBER-EGITIM", "Ustad-Kenanin-Islam-Hazinesi"]),
- ("Siber Güvenlik", "#1565c0", "🛡️", ["USTAD-SIBER", "Siber-ULTRA", "ustadcyber-oynatici", "USTAD-TAM-KUMANDA", "USTAD-TRANSFER"]),
+ ("Siber Güvenlik", "#1565c0", "🛡️", ["USTAD-OSINT", "USTAD-SIBER", "Siber-ULTRA", "ustadcyber-oynatici", "USTAD-TAM-KUMANDA", "USTAD-TRANSFER"]),
  ("Medya, TV ve Haber", "#6a1b9a", "📺", ["USTAD-TV", "USTAD-TV-KOPRUSU", "USTAD-SALON-TV-4K", "USTAD-PIYASA-TV", "USTAD-MONITOR", "USTAD-GAZETE"]),
  ("İşletme, Piyasa ve Kasa", "#ef6c00", "💼", ["USTAD-PIYASA", "USTADIN-KASASI", "USTAD-SALON"]),
  ("Kişisel ve Araçlar", "#ad1457", "🧰", ["USTAD-KAYIT", "USTAD-HATIRLATICI", "USTAD-NOT", "USTAD-SIFRELI-NOTLAR", "USTAD-HAVA", "USTAD-KALEM"]),

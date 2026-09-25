@@ -2,7 +2,7 @@
 
 İndirme sayfası: **https://kenankuzucu.github.io/ustad-apk-indir/**
 
-28 uygulama · 63 imzalı APK · toplam 115 MB.
+29 uygulama · 64 imzalı APK · toplam 116 MB.
 Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private) depolarda tutulur.
 
 ### 📚 Sınav ve Eğitim
@@ -41,6 +41,7 @@ Burada YALNIZCA kurulum dosyaları vardır; kaynak kodlar ayrı, özel (private)
 
 | Uygulama | Dosya | Sürüm | Byte | sha256 |
 |---|---|---|---|---|
+| ÜSTAD OSINT · Blue Team SOC Konsolu | apk/USTAD-OSINT-v1.6.apk | 1.6 | 863916 | `13689e727d1fe6e54283330a600530815d8cbf6c177dddf8b843b44fcf763de6` |
 | ÜSTAD SİBER | apk/USTAD-SIBER-v1.3.apk | 1.3 | 1141813 | `0a1bc70cfb5f143e791e219df1c182ab91cdd7a27edf43e17e9057c9bb5bd06e` |
 | ÜSTAD SİBER | apk/USTAD-SIBER-v1.4.apk | 1.4 | 1178880 | `d323cd8df2fad59bf3d3ef8c953c4f45dc6297591da20c7a5a6c03bd46256bfd` |
 | SİBER ULTRA | apk/Siber-ULTRA-v1.0.apk | 1.0 | 768397 | `301ddee4500b192c6a5f4ac693328537cf34c1eaae24cc56a9ff7b9203913ee1` |
