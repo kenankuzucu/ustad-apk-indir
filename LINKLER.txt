@@ -2,117 +2,137 @@
 ==========================================
 Sayfa (telefondan açılır): https://kenankuzucu.github.io/ustad-apk-indir/
 Depo (kod burada değil, sadece APK): https://github.com/kenankuzucu/ustad-apk-indir
-Toplam: 27 uygulama · 54 APK dosyası
+Toplam: 29 uygulama · 64 APK dosyası · 116 MB
 
 Doğrudan indirme linkleri (her biri kendi APK'sı, hepsi girişsiz çalışır):
 
- 1. Ustad-Kenanin-Islam-Hazinesi-v1.7.apk  (1,665,270 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/Ustad-Kenanin-Islam-Hazinesi-v1.7.apk
- 2. KALI-REHBERIM-v3.5.apk  (1,171,530 byte)
+ 1. KALI-REHBERIM-v3.5.apk  (1,171,530 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/KALI-REHBERIM-v3.5.apk
- 3. Siber-ULTRA-v1.0.apk  (768,397 byte)
+ 2. Siber-ULTRA-v1.0.apk  (768,397 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/Siber-ULTRA-v1.0.apk
- 4. USTAD-SIBER-v1.3.apk  (1,141,813 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-v1.3.apk
- 5. USTAD-SIBER-v1.4.apk  (1,178,880 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-v1.4.apk
- 6. USTAD-GAZETE-v1.0.apk  (1,116,613 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-GAZETE-v1.0.apk
- 7. USTAD-GAZETE-v1.2.apk  (1,137,236 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-GAZETE-v1.2.apk
- 8. USTAD-EHLIYET-v2.2.apk  (3,696,115 byte)
+ 3. USTAD-EHLIYET-v2.2.apk  (3,696,115 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-EHLIYET-v2.2.apk
- 9. USTAD-HATIRLATICI-v1.1.apk  (2,710,694 byte)
+ 4. USTAD-GAZETE-v1.0.apk  (1,116,613 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-GAZETE-v1.0.apk
+ 5. USTAD-GAZETE-v1.2.apk  (1,137,236 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-GAZETE-v1.2.apk
+ 6. USTAD-HATIRLATICI-v1.1.apk  (2,710,694 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-HATIRLATICI-v1.1.apk
-10. USTAD-HATIRLATICI-v1.2.apk  (2,710,556 byte)
+ 7. USTAD-HATIRLATICI-v1.2.apk  (2,710,556 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-HATIRLATICI-v1.2.apk
-11. USTAD-HAVA-v1.0.apk  (1,001,517 byte)
+ 8. USTAD-HAVA-v1.0.apk  (1,001,517 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-HAVA-v1.0.apk
-12. USTAD-KALEM-v1.0.apk  (760,182 byte)
+ 9. USTAD-KALEM-v1.0.apk  (760,182 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KALEM-v1.0.apk
-13. USTAD-KAYIT-v2.0.apk  (43,584,456 byte)
+10. USTAD-KAYIT-v2.0.apk  (43,584,456 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KAYIT-v2.0.apk
-14. USTAD-MONITOR-v1.0.apk  (5,099,346 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-MONITOR-v1.0.apk
-15. USTAD-NOT-v1.0.apk  (1,288,890 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-NOT-v1.0.apk
-16. USTAD-PIYASA-TV-v1.0.apk  (202,624 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-TV-v1.0.apk
-17. USTAD-PIYASA-v1.0.apk  (87,065 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.0.apk
-18. USTAD-PIYASA-v1.1.apk  (223,173 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.1.apk
-19. USTAD-PIYASA-v1.2.apk  (223,173 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.2.apk
-20. USTAD-PIYASA-v1.3.apk  (227,269 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.3.apk
-21. USTAD-PIYASA-v1.4.apk  (809,131 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.4.apk
-22. USTAD-PIYASA-v1.5.apk  (842,335 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.5.apk
-23. USTAD-PIYASA-v1.6.apk  (854,987 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.6.apk
-24. USTAD-SALON-v1.0.apk  (87,067 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SALON-v1.0.apk
-25. USTAD-SALON-v1.1.apk  (95,259 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SALON-v1.1.apk
-26. USTAD-SIBER-EGITIM.apk  (4,925,787 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-EGITIM.apk
-27. USTAD-SIFRELI-NOTLAR-v1.0.apk  (797,299 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v1.0.apk
-28. USTAD-SIFRELI-NOTLAR-v2.0.apk  (903,795 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.0.apk
-29. USTAD-SIFRELI-NOTLAR-v2.1.apk  (907,891 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.1.apk
-30. USTAD-SIFRELI-NOTLAR-v2.2.apk  (911,987 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.2.apk
-31. USTAD-SIFRELI-NOTLAR-v2.3.apk  (911,987 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.3.apk
-32. USTAD-TAM-KUMANDA-v1.0.apk  (374,542 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TAM-KUMANDA-v1.0.apk
-33. USTAD-TRANSFER-v1.0.apk  (374,542 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TRANSFER-v1.0.apk
-34. USTAD-TV-v2.0.apk  (760,119 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-v2.0.apk
-35. USTAD-TV-v2.1.apk  (797,064 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-v2.1.apk
-36. USTAD-TV-KOPRUSU-v1.0.apk  (374,479 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-KOPRUSU-v1.0.apk
-37. ustadcyber-oynatici-v1.0.apk  (870,774 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/ustadcyber-oynatici-v1.0.apk
-38. USTADIN-KASASI-v1.0.apk  (99,351 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTADIN-KASASI-v1.0.apk
-39. USTADIN-KASASI-v1.1.apk  (685,309 byte)
-    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTADIN-KASASI-v1.1.apk
-40. USTAD-KOC-PRO-v2.0.apk  (1,096,322 byte)
+11. Ustad-Kenanin-Islam-Hazinesi-v1.7.apk  (1,665,270 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/Ustad-Kenanin-Islam-Hazinesi-v1.7.apk
+12. USTAD-KOC-PRO-v2.0.apk  (1,096,322 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.0.apk
-41. USTAD-KOC-PRO-v2.1.apk  (1,116,935 byte)
+13. USTAD-KOC-PRO-v2.1.apk  (1,116,935 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.1.apk
-42. USTAD-KOC-PRO-v2.2.apk  (1,137,549 byte)
+14. USTAD-KOC-PRO-v2.2.apk  (1,137,549 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.2.apk
-43. USTAD-KPSS-B-v1.0.apk  (1,075,842 byte)
+15. USTAD-KOC-PRO-v2.3.apk  (1,137,549 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.3.apk
+16. USTAD-KOC-PRO-v2.4.apk  (1,166,594 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.4.apk
+17. USTAD-KOC-PRO-v2.5.apk  (1,187,348 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.5.apk
+18. USTAD-KOC-PRO-v2.6.apk  (1,199,775 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.6.apk
+19. USTAD-KOC-PRO-v2.7.apk  (1,249,491 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.7.apk
+20. USTAD-KOC-PRO-v2.8.apk  (1,311,483 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.8.apk
+21. USTAD-KOC-PRO-v2.9.apk  (1,315,579 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v2.9.apk
+22. USTAD-KOC-PRO-v3.0.apk  (1,722,734 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KOC-PRO-v3.0.apk
+23. USTAD-KPSS-ARACLAR-v1.0.apk  (1,039,185 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-ARACLAR-v1.0.apk
+24. USTAD-KPSS-B-v1.0.apk  (1,075,842 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.0.apk
-44. USTAD-KPSS-B-v1.1.apk  (1,075,842 byte)
+25. USTAD-KPSS-B-v1.1.apk  (1,075,842 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.1.apk
-45. USTAD-KPSS-B-v1.2.apk  (1,075,842 byte)
+26. USTAD-KPSS-B-v1.2.apk  (1,075,842 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.2.apk
-46. USTAD-KPSS-B-v1.3.apk  (1,084,034 byte)
+27. USTAD-KPSS-B-v1.3.apk  (1,084,034 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.3.apk
-47. USTAD-KPSS-B-v1.4.apk  (1,084,034 byte)
+28. USTAD-KPSS-B-v1.4.apk  (1,084,034 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.4.apk
-48. USTAD-KPSS-B-v1.5.apk  (1,088,130 byte)
+29. USTAD-KPSS-B-v1.5.apk  (1,088,130 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.5.apk
-49. USTAD-KPSS-B-v1.6.apk  (1,092,226 byte)
+30. USTAD-KPSS-B-v1.6.apk  (1,092,226 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.6.apk
-50. USTAD-KPSS-B-v1.7.apk  (1,092,226 byte)
+31. USTAD-KPSS-B-v1.7.apk  (1,092,226 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.7.apk
-51. USTAD-KPSS-B-v1.8.apk  (1,092,226 byte)
+32. USTAD-KPSS-B-v1.8.apk  (1,092,226 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.8.apk
-52. USTAD-KPSS-B-v1.9.apk  (1,096,322 byte)
+33. USTAD-KPSS-B-v1.9.apk  (1,096,322 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-B-v1.9.apk
-53. USTAD-KPSS-v1.2-APK-yasal-uyarili.apk  (607,973 byte)
+34. USTAD-KPSS-v1.2-APK-yasal-uyarili.apk  (607,973 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-KPSS-v1.2-APK-yasal-uyarili.apk
-54. USTAD-SALON-TV-4K-v1.0.apk  (7,903,128 byte)
+35. USTAD-MONITOR-v1.0.apk  (5,099,346 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-MONITOR-v1.0.apk
+36. USTAD-NOT-v1.0.apk  (1,288,890 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-NOT-v1.0.apk
+37. USTAD-OSINT-v1.6.apk  (863,916 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-OSINT-v1.6.apk
+38. USTAD-PIYASA-TV-v1.0.apk  (202,624 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-TV-v1.0.apk
+39. USTAD-PIYASA-v1.0.apk  (87,065 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.0.apk
+40. USTAD-PIYASA-v1.1.apk  (223,173 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.1.apk
+41. USTAD-PIYASA-v1.2.apk  (223,173 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.2.apk
+42. USTAD-PIYASA-v1.3.apk  (227,269 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.3.apk
+43. USTAD-PIYASA-v1.4.apk  (809,131 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.4.apk
+44. USTAD-PIYASA-v1.5.apk  (842,335 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.5.apk
+45. USTAD-PIYASA-v1.6.apk  (854,987 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-PIYASA-v1.6.apk
+46. USTAD-SALON-TV-4K-v1.0.apk  (7,903,128 byte)
     https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SALON-TV-4K-v1.0.apk
+47. USTAD-SALON-v1.0.apk  (87,067 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SALON-v1.0.apk
+48. USTAD-SALON-v1.1.apk  (95,259 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SALON-v1.1.apk
+49. USTAD-SIBER-EGITIM.apk  (4,925,787 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-EGITIM.apk
+50. USTAD-SIBER-v1.3.apk  (1,141,813 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-v1.3.apk
+51. USTAD-SIBER-v1.4.apk  (1,178,880 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIBER-v1.4.apk
+52. USTAD-SIFRELI-NOTLAR-v1.0.apk  (797,299 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v1.0.apk
+53. USTAD-SIFRELI-NOTLAR-v2.0.apk  (903,795 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.0.apk
+54. USTAD-SIFRELI-NOTLAR-v2.1.apk  (907,891 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.1.apk
+55. USTAD-SIFRELI-NOTLAR-v2.2.apk  (911,987 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.2.apk
+56. USTAD-SIFRELI-NOTLAR-v2.3.apk  (911,987 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-SIFRELI-NOTLAR-v2.3.apk
+57. USTAD-TAM-KUMANDA-v1.0.apk  (374,542 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TAM-KUMANDA-v1.0.apk
+58. USTAD-TRANSFER-v1.0.apk  (374,542 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TRANSFER-v1.0.apk
+59. USTAD-TV-KOPRUSU-v1.0.apk  (374,479 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-KOPRUSU-v1.0.apk
+60. USTAD-TV-v2.0.apk  (760,119 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-v2.0.apk
+61. USTAD-TV-v2.1.apk  (797,064 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTAD-TV-v2.1.apk
+62. ustadcyber-oynatici-v1.0.apk  (870,774 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/ustadcyber-oynatici-v1.0.apk
+63. USTADIN-KASASI-v1.0.apk  (99,351 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTADIN-KASASI-v1.0.apk
+64. USTADIN-KASASI-v1.1.apk  (685,309 byte)
+    https://raw.githubusercontent.com/kenankuzucu/ustad-apk-indir/main/apk/USTADIN-KASASI-v1.1.apk
 
 © 2026 Kenan Kuzucu · Tüm hakları saklıdır (5846 FSEK).
