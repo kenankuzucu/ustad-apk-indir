@@ -39,6 +39,13 @@ ADLAR = {
  "USTAD-TAM-KUMANDA": ("ÜSTAD TAM KUMANDA", "Kumanda aracı."),
  "USTAD-TRANSFER": ("ÜSTAD TRANSFER", "Dosya aktarım aracı."),
 }
+# Ek bağlantılar: kartın altına APK yanında ikinci bir düğme olarak eklenir.
+# USTAD OSINT hem PC hem Android'de çalıştığı için APK yanında uygulamanın (PC) linki de durur.
+EK_LINK = {
+ "USTAD-OSINT": [
+  ("🖥️ PC SÜRÜMÜ · UYGULAMA KAYNAK KODU (özel depo)", "https://github.com/kenankuzucu/ustad-osint"),
+ ],
+}
 GRUP = [
  ("Sınav ve Eğitim", "#2e7d32", "📚", ["USTAD-KPSS-B", "USTAD-KOC-PRO", "USTAD-KPSS", "USTAD-KPSS-ARACLAR", "USTAD-EHLIYET", "KALI-REHBERIM", "USTAD-SIBER-EGITIM", "Ustad-Kenanin-Islam-Hazinesi"]),
  ("Siber Güvenlik", "#1565c0", "🛡️", ["USTAD-OSINT", "USTAD-SIBER", "Siber-ULTRA", "ustadcyber-oynatici", "USTAD-TAM-KUMANDA", "USTAD-TRANSFER"]),
@@ -88,6 +95,9 @@ def uret(uyg):
             ic += (f'  <a class="indir" style="background:{renk}" href="apk/{son["ad"]}" download>'
                    f'⬇ İNDİR · sürüm {son["ver"]} · {boy(son["boy"])}</a>\n')
             ic += f'  <div class="sha">sha256 {son["sha"][:16]}…</div>\n'
+            for ek_ad, ek_url in EK_LINK.get(u, []):
+                ic += (f'  <a class="indir ek" href="{ek_url}" target="_blank" rel="noopener">'
+                       f'{ek_ad}</a>\n')
             if len(uyg[u]) > 1:
                 esk = " · ".join(f'<a href="apk/{v["ad"]}" download>{v["ver"]}</a> '
                                  f'<span class="kucuk">({boy(v["boy"])})</span>' for v in uyg[u][:-1])
@@ -124,6 +134,8 @@ h2 .sayi{float:right;font-weight:400;font-size:13px;opacity:.9}
 .kart h3{margin:0 0 6px;font-size:15.5px}
 .acik{margin:0 0 10px;font-size:13px;color:#54606f;min-height:36px;line-height:1.35}
 .indir{display:block;text-align:center;color:#fff;text-decoration:none;font-weight:600;font-size:13.5px;padding:10px;border-radius:9px}
+.indir.ek{margin-top:7px;background:#0d1b2a;border:1px solid #0d1b2a;opacity:.94;font-size:12.5px;font-weight:600}
+.indir.ek:hover{opacity:1;background:#153450}
 .sha{font-family:Consolas,monospace;font-size:10.5px;color:#8593a3;margin-top:6px;word-break:break-all}
 .eski{font-size:12px;margin-top:7px;color:#5a6572}
 .eski a{color:#1565c0;text-decoration:none;font-weight:600}
